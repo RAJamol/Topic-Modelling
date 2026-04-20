@@ -22,7 +22,7 @@ This project demonstrates how to build a real-world NLP workflow by:
 - **Scikit-learn** – vectorization & LDA  
 - **Pandas / NumPy** – data handling
 
-  ##  NLP Techniques Used
+##  NLP Techniques Used
 
 - Tokenization & normalization  
 - Stopword removal (custom + default)  
