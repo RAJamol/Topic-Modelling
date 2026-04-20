@@ -1,7 +1,7 @@
-## News Topic Modeling on Indian Education
+# News Topic Modeling on Indian Education
 An end-to-end Natural Language Processing (NLP) pipeline that automatically collects news articles related to education in India, processes the text, and applies topic modeling (LDA) to uncover hidden themes and trends.
 
-# Project Overview
+## Project Overview
 
 This project demonstrates how to build a real-world NLP workflow by:
 
